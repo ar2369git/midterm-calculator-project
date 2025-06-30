@@ -2,8 +2,7 @@
  
 A full-featured, extensible CLI calculator with advanced operations, undo/redo, history persistence, logging, configuration via `.env`, and continuous integration.
  
-![CI](https://github.com/your-username/midterm-calculator-project/actions/workflows/python-app.yml/badge.svg)
- 
+
 ---
  
 ## 📋 Table of Contents

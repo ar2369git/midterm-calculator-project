@@ -1,0 +1,2 @@
+2025-06-30 17:44:15,256 [ERROR] Calculator._perform() missing 2 required positional arguments: 'a' and 'b'
+2025-06-30 17:44:23,684 [INFO] add 3.0 3.0 = 6.0
